@@ -2,7 +2,7 @@
 
 Chat App with TypeScript and Firebase - school project at JavaScript2 course (2022)  
 
-https://margareta75.github.io/Chat-App-TypeScript-Firebase/
+https://gosiacodes.github.io/Chat-App-TypeScript-Firebase/
 
 
 ## :pushpin: _How does the application work?_
