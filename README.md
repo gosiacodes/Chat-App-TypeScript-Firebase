@@ -1,4 +1,4 @@
-# :sparkles: Chat app :sparkles:
+# :sparkles: Chat App TypeScript Firebase :sparkles:
 
 Chat App with TypeScript and Firebase - school project at JavaScript2 course (2022)  
 
@@ -9,7 +9,7 @@ https://gosiacodes.github.io/Chat-App-TypeScript-Firebase/
 
 Chat application connected to Firebase database.
 
-You can login with new user account and then add messages.
+You can first login with a new user account and then add messages.
 
 When you have logged in with your account, you can log in and out with it.
 
